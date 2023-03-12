@@ -6,7 +6,7 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Um chat simples desenvolvido utilizando o procotolo WebSocket no Spring Boot.
+> Um chat simples desenvolvido utilizando o procotolo WebSocket no Spring Boot. Teste localmente com seus colegas ou faça o deploy para utilizar em qualquer lugar.
 
 ## 💻 Pré-requisitos
 
