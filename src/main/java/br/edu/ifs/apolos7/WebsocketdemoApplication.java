@@ -10,6 +10,4 @@ public class WebsocketdemoApplication {
 		SpringApplication.run(WebsocketdemoApplication.class, args);
 	}
 
-
-
 }

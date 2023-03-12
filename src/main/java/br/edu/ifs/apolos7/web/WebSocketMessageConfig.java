@@ -21,7 +21,4 @@ public class WebSocketMessageConfig implements WebSocketMessageBrokerConfigurer 
         registry.enableSimpleBroker("/topic");
     }
 
-
-
-
 }
